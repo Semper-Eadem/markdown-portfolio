@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Now I have learned how to _create a task list_, *add headers*, __add images__, **add profile links**, _add __lists__ or __emojis__ and **use emphasis**_.
